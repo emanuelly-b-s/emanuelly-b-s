@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/emanuelly-bueno-da-silva-9ab88221a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/emanuelly-bueno-da-silva-9ab88221a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emanuelly-b-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuelly-b-s" height="30" width="40" /></a>
 <a href="https://instagram.com/s__emanuelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s__emanuelly" height="30" width="40" /></a>
 </p>
 
