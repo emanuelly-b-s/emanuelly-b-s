@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emanuelly Silva</h1>
-<h3 align="center">Student of Software Engineering at UNIOPET Technical Apprentice in Systems Development at Bosch Curitiba</h3>
+<h3 align="center">Student of Software Engineering at UNIOPET</h3>
 <h3 align="center">Technical Student in Systems Development at Senai-PR</h3>
 <h3 align="center">Technical Apprentice in Systems Development at Bosch Curitiba</h3>
 
