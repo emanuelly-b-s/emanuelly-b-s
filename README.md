@@ -17,7 +17,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelly-b-s&show_icons=true&theme=dracula&locale=en&layout=compact" alt="emanuelly-b-s" widht="500em" height="150em"/></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelly-b-s&show_icons=true&theme=dracula&locale=en&layout=compact" alt="emanuelly-b-s" widht="500em" height="150em"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelly-b-s&show_icons=true&theme=dracula&locale=en" alt="emanuelly-b-s"   widht="500em" height="150em"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelly-b-s&show_icons=true&theme=dracula&locale=en" alt="emanuelly-b-s"   widht="500em" height="150em"/></p> -->
 
