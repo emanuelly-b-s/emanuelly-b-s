@@ -1,8 +1,8 @@
 <div>
   <h2>Hi, I'm Emanuelly Bueno da Silva</h2>
   <p>:briefcase: Systems Development Apprentice - Bosch</p>
-  <p>:mortar_board: System Development Technician, 2st Semester - SENAI</p>
   <p>:mortar_board: Software Engineering, 2st Semester - UNIOPET</p>
+  <p>:mortar_board: System Development Technician, 2st Semester - SENAI</p>
 </div>
 
 
